@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pankaj Khatri</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrpk4699" alt="mrpk4699" /></a> </p>
+#### 👨‍💻ABOUT ME:
+<h4 align="center">
+I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+<br/>
 
-- 🌱 I’m currently learning **React**
-
+- 🌍  I am from Dehradun, Uttarakhand.
+- 🌱 I’m currently learning **React**.
+- ⭐ My latest project [Myntra.com](https://saurav01myntra.netlify.app/) selected in Top      Project in Masai School
 - 👨‍💻 All of my projects are available at [https://MrPK4699.github.io](https://MrPK4699.github.io)
-
 - 📫 How to reach me **4699pankajkhatri@gmail.com**
+- 🔥  Visit my [[Portfolio](https://MrPK4699.github.io)](https://MrPK4699.github.io) for more details.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
