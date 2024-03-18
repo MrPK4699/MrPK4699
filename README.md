@@ -18,7 +18,7 @@ A Full Stack Web Developer skilled in MERN stack. My passion for software lies w
    <a href="https://MrPK4699.github.io">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-  <a href="www.linkedin.com/in/4699pankajkhatri" target="_blank">
+  <a href="https://www.linkedin.com/in/4699pankajkhatri" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
 </p>
